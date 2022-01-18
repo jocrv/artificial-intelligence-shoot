@@ -1,0 +1,1410 @@
+Connectionist models, also known as Artificial Neural Networks, form an AI paradigm that is inspired by the behavior of the brain, in addition to other characteristics. Check the alternative below that does NOT represent a characteristic of this paradigm:
+Process information in a parallel and distributed way
+ Right These are optimization algorithms
+learn with training
+Deal with knowledge not symbolically represented
+Generalize learned knowledge
+Answered on 01/01/2022 22:12:32
+feedback
+commented
+
+ 
+two
+          Question
+According to the paradigms in Artificial Intelligence, it can be said that a symbolist model: (Choose the CORRECT alternative):
+ Right Deals with explicit and symbolically represented knowledge
+It is a model that learns from the data
+It is formed by a network of elements connected by weights that hold the knowledge
+Does not have knowledge represented explicitly
+ Wrong Handles graphic symbols only
+Answered on 01/01/2022 22:19:55
+
+ 
+3
+          Question
+One of the main techniques of Evolutionary Computing is the Genetic Algorithm, whose main attraction is its use as a search and optimization tool for the solution of the most different types of problems. Thus, it can be said that in relation to Genetic Algorithms: (Choose the CORRECT alternative)
+They perform approximate reasoning, with imprecise propositions and described in natural language.
+They are inspired by the behavior of the human brain and model the imprecise modes of approximate reasoning.
+ Right Employ a structured parallel search strategy based on the mechanisms of natural selection.
+They deal with explicit knowledge, symbolically represented and generalize the learned knowledge.
+They deal with non-symbolically represented knowledge and process information in a parallel and distributed way.
+
+According to the paradigms in Artificial Intelligence, it can be said that a connectionist model: (Choose the CORRECT alternative):
+Reflects the knowledge of one or more experts in a given area
+ Wrong Deals with reasoning about represented knowledge and justifies decisions
+Has knowledge explicitly represented with rules
+ Right Learn from data and generalize learned knowledge
+It is programmed with an algorithm that reflects the knowledge that you want to represent.
+Answered on 01/02/2022 10:14:54
+
+ 
+5
+          Question
+Mark (T) True and (F) False in the following statements:
+
+( ) In production systems, a solution is an allowable configuration for your variables, not an answer to the problem.
+( ) The states, in a production system, represent the different configurations that a problem can assume.
+( ) In a production system, the initial state represents the solution of the problem.
+( ) The rules in a production system are called operators or production rules and represent the actions that can be performed.
+( ) A control system determines the rules to be applied at each moment, as well as determines when the production system must stop its execution.
+
+The correct sequence is represented in:
+
+V - F - V - V - F
+V - V - V - V - V
+ Right V - V - F - V - V
+V - F - V - V - V
+F - V - F - V - V
+Answered on 02/01/2022 10:23:43
+
+ 
+6
+          Question
+Based on an analysis, we could classify the systems that we frequently use as conventional systems or systems based on artificial intelligence methods. In this sense, indicate which option does NOT present a method classified as AI?
+fuzzy systems
+ Right Integrated systems
+Artificial neural networks
+genetic algorithms
+expert systems
+
+Fill in the gaps:
+
+A production system is a program composed of a set of possible solutions, a list of rules, and a _______________ procedure.
+In a production system, the possible solutions to the problem are called ____________.
+The set of solutions to a problem in production systems is called ______________.
+A state space is a _______________.
+
+The correct sequence is represented in:
+
+ 
+
+ 
+
+ 
+
+control - space - states of space - state search
+security - space - states of space - state search
+ RIGHT control - states - state space - search space
+security - space - space states - search states
+control - states - search space - state space
+Answered on 01/02/2022 11:25:17
+
+ 
+8
+          Question
+According to the paradigms in Artificial Intelligence, it is one of the main characteristics of fuzzy systems: (Choose the CORRECT alternative)
+ Right Handling approximate reasoning using imprecise concepts
+ It is a model that learns from data
+They are formed by a network of elements connected by weights that hold the knowledge
+Models the functioning of neurons in the brain
+Stores the information in the cloud on the data network
+
+
+Consider the following statements about problem solving in AI.
+I. A* is a well-known heuristic search algorithm.
+II. Minimax is one of the leading algorithms for two player games like chess.
+III. State space search is one of the ways to solve problems in AI.
+
+Tick ​​the correct alternative:
+
+ Right I, II and III are correct
+Only I and III are correct
+Only I and II are correct
+Only II and III are correct
+Only III is correct
+Answered on 01/02/2022 11:33:10
+feedback
+commented
+
+ 
+two
+          Question
+State graphs serve to represent all states and their transitions for a given system. Types of graphs are semantic networks and semantic trees. With regard specifically to the definition of semantic trees, it is incorrect to state that:
+in semantic trees each node has a predecessor (or parent node).
+ RIGHT in semantic trees the successors of a leaf node are the objective nodes.
+semantic trees are directed graphs.
+semantic trees do not contain cycles.
+semantic trees a node can have one or more successors (child nodes).
+
+Analyze the following statements.
+I. The breadth-first search strategy finds the optimal solution when all change-of-state operators have the same cost.
+II. The depth-first search strategy always expands a smaller number of nodes than the breadth-first search strategy, when applied to the same problem.
+III. The heuristic search strategy always finds the lowest cost solution.
+IV. The heuristic search strategy expands a generally smaller number of nodes than the breadth-first search algorithm, but it does not guarantee finding the optimal solution.
+V. The heuristic search algorithm that uses an admissible heuristic function finds the optimal solution.
+
+In this regard, it can be concluded that: Choose the correct alternative
+
+ Wrong Only statements II and V are correct.
+Only statement V is correct.
+ RIGHT Only statements I, IV and V are correct.
+Only statements I and V are correct.
+Only statements I and IV are correct.
+Answered on 01/02/2022 12:37:23
+feedback
+commented
+
+ 
+4
+          Question
+A person wants to cross the labyrinth below. However, she doesn't have any information about the maze to help her make a decision that will lead her to the exit more efficiently. Even though she doesn't have any information about the maze, she knows she can use an uninformed search technique to get through it called a depth-first search. To do this, she just follows the following rule when trying to cross the maze:
+
+Choose a side of the wall, right or left, and always go through the maze following the wall side chosen as a reference.
+Based on this information, if we use the right side of the wall as a reference, what depth-first search tree can be generated from the maze below?
+b 
+
+In the graph illustrated below, each node represents a distinct city, and each branch, a highway that interconnects the cities represented by the nodes that it joins, whose weight indicates the distance, in km, between these cities by the highway.
+
+Suppose we want to find the best route between cities A and M, indicated in this graph. Also consider the values ​​indicated in the table below as the straight line distance, in km, from each city to city M.
+
+
+
+node A B C D E F G H I J K L M
+h(node) 44 20 33 25 30 22 14 10 11 5 40 20 0
+
+ 
+
+From this information, choose the CORRECT alternative:
+
+To use heuristic search algorithms, one must define a heuristic that overestimates the cost of the solution.
+Using the A* algorithm, the route between A and M found in the above problem is ABHGIJM and the path cost is 85
+Using greedy search, the route found in the above problem is ACDFLM
+Using greedy search, the route between A and M found in the above problem is ACDFLM and the path cost is 56
+ Right Using the A* algorithm, the route between A and M found in the above problem is ACDFLM and the cost of the path is 56
+
+ The roads that join the cities below have tolls whose values ​​are close to the edges. A company in city D wants to make a delivery to city L, based on a price list from the previous quarter. Taking into account a particular search method, what is the route to be followed by the company in order to REDUCE the cost of fees?
+
+
+
+Node-h(n)
+A-25
+B-21
+C-18
+D-19
+E-10
+F-14
+G-13
+H-03
+I-07
+J-10
+K-05
+L-00
+
+Using greedy search, the route between A and L found in the above problem is DGKL and the path cost is 19
+Using greedy search, the route between A and L found in the above problem is DGHL and the path cost is 20
+Using the A* algorithm, the route between A and L found in the above problem is DGKL and the path cost is 14
+Using ordered search, the route between A and L found in the above problem is DGHL and the path cost is 23
+ Right Using the A* algorithm, the route between A and L found in the above problem is DGHL and the cost of the path is 14
+Answered on 01/02/2022 12:56:08
+
+The following definitions represent, respectively, the search methods:
+
+1) Initially, the method expands the root node, generating all its children. If one of these children is the solution to the problem, the method stops. Otherwise, one of them is chosen, according to some criteria, to be expanded and its children are tested again. The process continues until a solution is found or until a selected node can no longer be expanded. The solution is reached (if it exists), but it cannot be guaranteed to be the best one.
+
+2) From the root node, operators are applied successively, according to the defined strategy, until the solution is found or until the method can no longer continue. It does not guarantee that the solution to the problem will be found.
+
+3) Expands the nodes in the order they are generated so that nodes of a certain level are only generated and evaluated if nodes of the previous level have already been addressed. It evaluates all branches of the tree, therefore, in addition to guaranteeing the determination of the problem solution (if it exists), it guarantees that the solution is optimal.
+
+ 
+
+ Wrong (1) Revocable search in breadth - (2) Revocable search in depth - (3) Irrevocable search
+(1) Revocable breadth search - (2) Revocable breadth search - (3) Irrevocable search
+ Right (1) Revocable deep search - (2) Irrevocable search - (3) Revocable wide search.
+(1) Revocable Depth Search - (2) Revocable Depth Search - (3) Irrevocable Search
+(1) Revocable Depth Search - (2) Revocable Depth Search - (3) Irrevocable Search
+
+Regarding the performance of the depth-first and breadth-first search algorithms, it is possible to state that
+Depth-first search algorithms are less efficient on trees with high branching factors.
+ Wrong Breadth-first search algorithms are always more efficient than depth-first search algorithms.
+Breadth-first search algorithms perform poorly when faced with extremely long or infinite paths in state space.
+The performance of both depth-first and breadth-first search algorithms does not depend on path length or branching factor.
+ Right Depth-first search and breadth-first search algorithms perform well on trees where all paths have approximate lengths.
+Answered on 01/02/2022 14:10:18
+
+-------3
+Given the Rules and Facts below, please enter the correct option. Use the min-max method and the truth limit GC=40%.
+
+R1: IF weight > 180 or capacity > 90 THEN stop_elevator = 1 (GC = 70%)
+
+R2: IF weight > 120 and capacity < 80 THEN release_elevator = 1 (GC = 60%)
+
+FACTS:
+
+weight = 130 (GC = 80%)
+
+capacity = 75 (GC = 90%)
+
+R1 will be triggered by generating stop_elevator = 1 (GC = 56%) and R2 will not be triggered.
+R1 will not fire and R2 will fire generating stop_elevator = 1 (GC = 63%)
+R1 will not fire and R2 will not fire
+R1 will be triggered by generating stop_elevator = 1 (GC = 72%) and R2 will not be triggered.
+ RIGHT R1 will not be triggered and R2 will be triggered generating release_elevator = 1 (GC = 48%)
+Answered on 01/02/2022 17:32:45
+
+ 
+two
+          Question
+Given the Rules and Facts below, please enter the correct option. Use the min-max method and the truth limit GC=40%.
+
+R1: IF pressure > 200 or temperature > 120 THEN open_valve = 1 (GC = 70%)
+
+R2: IF pressure > 120 and temperature < 90 THEN close_valve = 1 (GC = 80%)
+
+FACTS:
+
+pressure = 210 (GC = 70%)
+
+temperature = 130 (GC = 90%)
+
+R1 will not be triggered and R2 will be triggered generating open_valve = 1 (GC = 42%)
+ R1 will be triggered generating open_valve = 1 (GC = 72%) and R2 will not be triggered.
+ RIGHT  R1 will be triggered generating open_valve = 1 (GC = 63%) and R2 will not be triggered.
+R1 will not fire and R2 will not fire
+R1 will be triggered by generating close_valve = 1 (GC = 81%) and R2 will be triggered by generating open_valve = 1 (GC = 49%)
+Answered on 01/02/2022 18:23:42
+
+Given the Rules and Facts below, please enter the correct option. Use the min-max method and the truth limit GC=40%.
+
+R1: IF passengers > 100 or delay > 30 THEN release_vessel = 1 (GC = 80%)
+
+R2: IF passengers < 90 and delay < 10 THEN retain_vessel = 1 (GC = 70%)
+
+FACTS: passengers = 95 (GC = 70%) delay = 20 (GC = 80%)
+R1 will be triggered generating release_vessel = 1 (GC = 64%) and R2 will not be triggered.
+R1 will not be triggered and R2 will be triggered generating retain_vessel = 1 (GC = 64%)
+R1 will be triggered generating retain_vessel = 1 (GC = 56%) and R2 will not be triggered.
+ RIGHT R1 won't fire and R2 won't fire
+R1 will be triggered generating release_vessel = 1 (GC = 81%) and R2 will be triggered generating retain_vessel = 1 (GC = 49%)
+Answered on 01/02/2022 20:05:48
+
+ 
+4
+          Question
+Given the Rules and Facts below, please enter the correct option. Use the min-max method and the truth limit GC=40%.
+
+R1: IF speed > 150 or rain > 100 THEN brake_drive = 1 (GC = 90%)
+
+R2: IF speed > 120 and rain < 80 THEN do not_activate_brake = 1 (GC = 60%)
+
+FACTS:
+
+speed = 180 (GC = 80%)
+
+rain = 120 (GC = 70%)
+
+R1 will not be triggered and R2 will be triggered generating brake_drive = 1 (GC = 75%)
+R1 will not be triggered and R2 will be triggered generating brake_drive = 1 (GC = 42%)
+ R1 will be triggered generating not_activate_brake = 1 (GC = 63 %) and R2 will not be triggered.
+ RIGHT R1 will be triggered generating brake_drive = 1 (GC = 72%) and R2 will not be triggered.
+R1 will not fire and R2 will not fire
+
+
+The architecture shown in the figure below is composed of:
+
+knowledge base, which is the domain of knowledge expressed in rules;
+Fact Database, which is the data that will be used to derive conclusions;
+Inference engine, which is part of the system that uses rules and facts to derive conclusions;
+Explanation system, provides information to the user about how the inference engine reached conclusions;
+knowledge-base editor, which allows the user to edit the information contained in the knowledge base;
+User interface, which allows the system to interact with users;
+
+
+Based on this information, the architecture described above is typical of which system?
+
+
+Neural network construction system.
+
+
+First order logic creation system.
+
+
+System for creating search rules in semantic trees.
+
+ Right
+System Experts of production rules.
+
+
+Fuzzy logic derivation system.
+
+An economics expert defined the set of rules:
+
+A1: If Unemployment Rate is high then Consumption is low.
+
+A2: If Unemployment Rate is low then Consumption is high.
+
+A3: If Foreign Investment is low then the Unemployment Rate is high.
+
+A4: If Foreign Investment is high then Unemployment Rate is low.
+
+Taking into account that fact 1 is "Foreign Investment is high" and that an answer to the question "How is consumption is?", inform the number of rules investigated using the fact-oriented strategy until the above question is answered.
+
+5
+ 4
+3
+ right 6
+two
+Answered on 01/02/2022 21:42:48
+feedback
+commented
+
+ 
+7
+          Question
+One of the ways to represent knowledge is through rules. Systems that use this representation technique employ techniques of searching for rules and inferring new facts, in order to find the facts that have been defined as objectives. From the rules below, which defines a boiler safety system.
+
+Rule 1: If temperature > 60 then pressure is high.
+Rule 2: If pressure is between 30 and 60 then pressure is medium.
+Rule 3: If pressure is less than 30 then pressure is low.
+Rule 4: If Temperature > 100 then temperature is high.
+Rule 5: If Temperature between 50 and 100 then temperature is medium.
+Rule 6: If Temperature < 50 then temperature is low.
+Rule 7: If Pressure is High or Temperature is High then Decrease Fuel.
+Rule 8: If Pressure is Low or Temperature is Low then Increase Fuel.
+
+A measurement was carried out in which the temperature is 120 and the pressure is 50, identify the facts generated.
+ Wrong Pressure: High
+High temperature
+Action: Decrease Fuel
+Pressure: Average
+Average temperature
+Action: Decrease Fuel
+Pressure: Average
+High temperature
+Action: Increase Fuel
+
+ Right Pressure: Medium
+High temperature
+Action: Decrease Fuel
+High pressure
+Average temperature
+Action: Increase Fuel
+
+An economics expert defined the set of rules:
+
+A1: If Unemployment Rate is high then Consumption is low.
+
+A2: If Unemployment Rate is low then Consumption is high.
+
+A3: If Foreign Investment is low then the Unemployment Rate is high.
+
+A4: If Foreign Investment is high then Unemployment Rate is low.
+
+Taking into account that fact 1 is "Foreign Investment is high" and that an answer to the question "How is consumption is?", inform the number of rules investigated using the objective-oriented strategy until the above question is answered.
+
+ right 5
+4
+6
+3
+two
+Answered on 02/01/2022 21:57:00
+
+
+Explanation:
+Objective-directed strategy - backward chain, we investigate the rules that have the objectives we are looking for in the conclusion and If the fact of the rule's premise is unknown, this will be the new objective and we start to look for a rule that contains it in the conclusion.
+
+Just as the fact is high investment, how is consumption? we will have:
+R1 new target the unemployment rate
+R3 is investigated but the rule is not activated
+R4 is investigated and the rule is activated, new fact - low unemployment rate
+R1 is investigated but the rule is not activated
+R2 is investigated and the rule, high consumption is activated
+
+
+-------------------------4 
+
+Analyze the following statements:
+
+I. The support of this set is 20-40
+
+II. The support of this set is 25-35
+
+III. The membership degree of a person aged 23 years is 0
+
+IV. The membership degree of a person aged 30 years is 1
+
+V. The membership level of a person aged 23 years is approximately 0.5.
+
+Statements I, III, IV and V are true and statement II is false.
+Statements I and V are true and statements II, III and IV are false.
+ True Statements I, IV and V are true and statements II and III are false.
+Statements II, IV and V are true and statements I and III are false.
+
+Statement I is true and the others are false.
+
+A fuzzy system deals with fuzzy sets to do the tasks of fuzzifying real-world scalar values ​​so that they can be manipulated as linguistic entities and, after applying inference rules that are expressed with these linguistic entities, but actually deal with the membership values, produce through a process called defuzzyfication the scalar values ​​that apply to the output to the real world.
+From this statement, the following characteristics of the components of a fuzzy system can be extracted:
+I- Rules are provided by experts or extracted from numerical data
+II- The defuzzifier transforms the fuzzy set obtained by the Inference and transforms it into a precise value.
+III- In the inference, the typical value is weighted with its degree of relevance.
+
+Choose the correct alternative.
+
+Only item III is correct.
+Only items II and III are correct.
+ Correct Items I, II and III are correct.
+Only item II is correct.
+Only items I and III are correct.
+
+Review the chart below.
+
+
+
+The membership degree of people over 1.90 m and under 1.70 m, respectively, is:
+
+0.5 and 1
+ Right 1 and 0
+1 and 0.5
+0 and 1
+0 and 0.5
+Answered on 01/03/2022 17:50:23
+
+ 
+4
+          Question
+Fill in the blanks: Fuzzy inference is a logical relation that obeys the same truth table as the ___________ Implication of traditional propositional logic (crisp logic). The difference is that in crisp logic, the rule is triggered only if the ________ is ________ and in fuzzy logic the rule is triggered when the premise has a degree of relevance _________ zero. The correct sequence is represented in:
+Modus Ponens, conclusion, true, different from
+ Certain Modus Ponens, premise, true, different from
+Modus Tollens, premise, false, different from
+Modus Ponens, premise, false, equal to
+Modus Tollens, conclusion, true, equal to
+
+Let x = {0, 1, 2, 3, 4} and A and B are two fuzzy subsets of X, given by the membership functions µA and µB, respectively.
+
+x 0 1 2 3 4
+µA(x) 1 0.5 0.3 0.9 1
+µB(x) 0 0.2 0.4 0.3 0
+
+Considering the calculation formula suggested by Zadeh for the logical operators AND and OR, what is the result of the relevance of the values ​​of the following three expressions: µA(0) AND µB(0); µA(2) AND µB(2); µA(2) OR µB(2); µA(3) OR µB(4)
+
+1; 0.4; 0.3; 0.9
+ Right 0; 0.3; 0.4; 0.9
+1; 0.4; 0.4; 0
+ 0; 0.3; 0.4; 1
+1; 0.2; 0.3; 0
+
+Given the representation below the linguistic variable,
+
+
+
+We can say that:
+
+I - The support of the middle age fuzzy set and the support of the adult fuzzy set are, respectively: 15 to 42 and 28 to 56.
+
+II - The universe of discourse corresponds to the values ​​0 to 100.
+
+III - The value of the membership function for the adolescent linguistic value at age 42 is equal to 0.
+
+Tick ​​the correct alternative
+
+Only statement II is correct.
+Only statement III is correct.
+ Correct Only statements II and III are correct.
+All statements are correct
+Only statements I and II are correct.
+
+Given the representation below the linguistic variable,
+
+
+
+We can say that:
+
+I - The support of the adult fuzzy set and the support of the elderly fuzzy set are, respectively, 15 to 42 and 49 to 100.
+
+II - The value of the membership function for the adult linguistic value at age 42 is equal to 0.
+
+III - The universe of discourse corresponds to the values ​​0 to 100.
+
+Tick ​​the correct alternative
+
+Only statement II is correct.
+Only statements I and II are correct.
+ Right All statements are correct.
+Only statement III is correct.
+Only statements II and III are correct.
+
+
+A soccer team specialist mapped a set of membership functions based on the age of players between 18 and 45 years. The functions and the graph can be seen in the figure. Knowing that João is 32 years old, Arnaldo is 26 and that both are players of this team, mark the correct alternative that presents the degree of relevance of the age of João in the old set and Arnaldo in the new set, respectively:
+
+ 
+ 0.5 and 0.25
+ Right 0.4 and 0.25
+0.4 and 0.5
+0.5 and 1
+0.5 and 0.5
+
+Regarding fuzzy logic, we can say that the process transforms linguistic values ​​into fuzzy logic values ​​is: ______________________. Mark the correct option:
+Relevance
+Right Fuzzification
+boolean
+Inference
+defuzzification
+
+feedback
+commented
+
+
+ 
+
+
+two.
+In a Fuzzy system, inference is responsible for (tick the correct alternative):
+RIGHT Combining rules and input values
+Apply rules dealing with input linguistic values
+Transform the fuzzy sets generated by applying the rules
+Produce a desired scalar output
+Transform input into memberships used for rule activation
+
+In fuzzy inference:
+
+The rule is a composition of Fuzzy relations where the first relation is a fuzzy set (possibly resulting from a Fuzzy operation)
+
+and the second relation is one of implication.
+
+
+Tick ​​the correct alternative.
+
+Both statements are incorrect
+The first statement is incorrect and the second is correct.
+The first statement is correct and the second is incorrect.
+Both statements are correct, but they are not correlated.
+Right 
+Both statements are correct and the second complements the first
+
+feedback
+commented
+
+To calculate the implication relationship, the most used way is suggested by:
+Zadeh
+von Newman
+Tsukamoto
+RIGHT Mandani
+Takagi-Sugeno
+
+
+
+ 
+
+
+6.
+Consider the set below, resulting from the composition of several rules activated by the composition method by MAXIMO:
+
+ 
+
+
+
+ 
+
+The final value of the variable calculated based on the AVERAGE OF MAXIMUM defuzzification method is:
+
+27
+23
+RIGHT 25
+19
+21
+
+
+ 
+
+
+4.
+Regarding fuzzy systems, check the option that indicates a defuzzification method.
+load center
+Minimum maximum
+center of maxima
+RIGHT Average of maximums
+Average of the minimums
+
+Knowing that TEMPERATURE = 75 and PRESSURE = 180 and applying the calculation methods suggested by Zadeh (min-max) we can say that:
+
+RIGHT The result of the operation IF TEMPERATURE = MEDIUM AND PRESSURE = HIGH is 0.5.
+The result of the operation IF TEMPERATURE = MEDIUM AND PRESSURE = HIGH is 1.
+The result of the operation IF TEMPERATURE = MEDIUM AND PRESSURE = HIGH is 0.
+The result of the operation IF TEMPERATURE = MEDIUM AND PRESSURE = HIGH is 0.1.
+
+The result of the operation IF TEMPERATURE = MEDIUM AND PRESSURE = HIGH is 0.8.
+
+The defuzzification process produces a precise output from the fuzzy output set obtained by the inference system.
+
+Check the item that is not a defuzzification method.
+Modified Height
+Area Center
+Maximum Average
+RIGHT Minimum Minimum
+centroid
+
+------------------ 6
+The genetic operator that is responsible for the recombination of parental traits during reproduction is:
+Creation
+Selection
+ Right Crossover
+Mutation
+Adaptation
+
+
+ 
+two
+          Question
+Genetic algorithms are Artificial Intelligence search techniques and have had a broad impact on optimization problems such as circuit layout and service delivery scheduling.
+
+Regarding the most common version of this technique, consider the following statements.
+
+I. The workings of genetic algorithms start with a set of k randomly generated states called a population.
+
+II. For each selected pair, a crossover point is randomly chosen among the positions in the individual's chain.
+
+III. The fitness function of each individual should define which is the best crossover point of the selected pairs.
+
+IV. The mutation phase of genetic algorithms is mandatory and must follow a random order to guarantee advantages in its results.
+
+ 
+
+Tick ​​the CORRECT alternative.
+
+Only statements I, II and III are correct.
+Only statements III and IV are correct.
+Only statements I and IV are correct.
+Only statements II, III and IV are correct.
+ Correct Only statements I and II are correct.
+
+ The most important genetic operators, which, if correctly applied to individuals, generate diversity in the population and facilitate the search for better-adapted individuals in the search space, are:
+mutation and adaptation
+crossing and selection
+ Certain crossover and mutation
+selection and adaptation
+selection and mutation
+
+
+ 
+4
+          Question
+The genetic operator that acts randomly on the genes of the chromosome, generating diversity in one copy of the chromosome is:
+Creation
+Adaptation
+crossover
+Selection
+ Right Mutation
+
+ The general structure of a genetic algorithm is quite simple and consists of the iterative application of genetic operators. To stop the evolution of the population, a stopping criterion must be used. A group of Artificial Intelligence students tries to develop optimization software with genetic algorithms, and one of the problems encountered is precisely about the stopping criterion to be used. Some are being suggested. Review the suggestions below:
+
+I - Maximum number of generations.
+
+II - Maximum processing time.
+
+III - Best individual, of the current population, to be satisfactory.
+
+IV - Processing interruption when the population no longer evolves after a certain number of consecutive generations.
+
+Check the alternative that indicates which suggestions above can be used as stopping criteria in genetic algorithms:
+
+only I and II
+Only I and III
+ RIGHT All suggestions
+ Only I, II and IV
+Only I, III and IV
+Answered on 01/03/2022 19:38:08
+feedback
+commented
+
+ 
+6
+          Question
+The genetic operator that allows the selection of individuals, at random, in proportion to fitness is:
+Mutation
+ Adaptation
+ Right Selection
+crossover
+Creation
+
+The genetic operator that allows child chromosomes to inherit genetic characteristics from parent chromosomes is:
+Mutation
+Creation
+Selection
+Adaptation
+ Right Crossover
+Answered on 01/03/2022 19:39:28
+
+ 
+8
+          Question
+Regarding the search techniques used in artificial intelligence, consider the following statements.
+
+I. A genetic algorithm is a stochastic Hill Climbing search in which a large population of states is maintained. New states are generated by mutation and by crossover, which combines pairs of states from the population.
+II. Breadth, depth and uniform cost search are special cases of best first search.
+III. The A* search expands nodes with minimum value for f(n) = g(n) + h(n). A* is complete and optimal, provided that h(n) can be guaranteed to be admissible.
+
+Tick ​​the correct alternative.
+
+Only statements I and III are correct.
+ Correct Statements I, II and III are correct.
+Only statement III is correct.
+Only statements I and II are correct.
+Only statement II is correct.
+
+The genetic operator that makes possible the artificial process of "matching" chromosomes chosen from a certain population is:
+ Right Crossover
+Selection
+Creation
+Adaptation
+Mutation
+
+
+ 
+two
+          Question
+The genetic operator that acts randomly on the genes of the chromosome, generating diversity in one copy of the chromosome is:
+crossover
+ Creation
+Adaptation
+Selection
+ Right Mutation
+
+ The most important genetic operators, which, if correctly applied to individuals, generate diversity in the population and facilitate the search for better-adapted individuals in the search space, are:
+selection and mutation
+selection and adaptation
+mutation and adaptation
+ cross and selection
+ RIGHT crossover and mutation
+
+
+ 
+5
+          Question
+The genetic operator that allows child chromosomes to inherit genetic characteristics from parent chromosomes is:
+Creation
+Mutation
+Adaptation
+Selection
+ Right Crossover
+
+
+ 
+6
+          Question
+The general structure of a genetic algorithm is quite simple and consists of the iterative application of genetic operators. To stop the evolution of the population, a stopping criterion must be used. A group of Artificial Intelligence students tries to develop optimization software with genetic algorithms, and one of the problems encountered is precisely about the stopping criterion to be used. Some are being suggested. Review the suggestions below:
+
+I - Maximum number of generations.
+
+II - Maximum processing time.
+
+III - Best individual, of the current population, to be satisfactory.
+
+IV - Processing interruption when the population no longer evolves after a certain number of consecutive generations.
+
+Check the alternative that indicates which suggestions above can be used as stopping criteria in genetic algorithms:
+
+only I and II
+Only I, II and IV
+ OK All suggestions
+Only I and III
+Only I, III and IV
+
+
+ 
+3
+          Question
+Regarding the search techniques used in artificial intelligence, consider the following statements.
+
+I. A genetic algorithm is a stochastic Hill Climbing search in which a large population of states is maintained. New states are generated by mutation and by crossover, which combines pairs of states from the population.
+II. Breadth, depth and uniform cost search are special cases of best first search.
+III. The A* search expands nodes with minimum value for f(n) = g(n) + h(n). A* is complete and optimal, provided that h(n) can be guaranteed to be admissible.
+
+Tick ​​the correct alternative.
+
+Only statement II is correct.
+Only statements I and III are correct.
+Only statement III is correct.
+ Correct Statements I, II and III are correct.
+Only statements I and II are correct.
+
+
+The genetic operator that allows the selection of individuals, at random, in proportion to fitness is:
+ Right Selection
+crossover
+Adaptation
+Creation
+Mutation
+Answered on 01/03/2022 20:39:41
+
+ 
+8
+          Question
+Regarding Genetic Algorithms, we can say that:
+
+I - The candidate solution selection processes, used by genetic algorithms, seek to exclusively select the most suitable candidates, totally discarding the least suitable ones, in order to always keep the best genetic characteristics always present in the population.
+
+II - In a genetic algorithm, a population of individuals (chromosomes) represents a set of candidate solutions (population) to the problem to be optimized.
+
+III - The choice of the initial population, for genetic algorithms, must be judicious, generating only individuals with a high degree of aptitude and not admitting any degree of randomness.
+
+IV - The mutation genetic operator combines chromosomes from previously selected individuals, called parents, to form two new individuals, which have a great possibility of being more apt than their parents. Only the following statements are correct:
+
+Only I and III
+only I
+only I and IV
+Only III and IV
+ Right Only II
+Answered on 01/03/2022 20:42:39
+
+------------------------7
+Consider a genetic algorithm that operates on three individuals A, B, C, described respectively by the binary vectors A = [11011000], B = [00010000], C = [11001101], generating two new individuals D = [11011101] and E = [11001000] New individuals were generated through:
+ RIGHT Crossover through the midpoint of individuals A and C.
+Crossover through the midpoint of individuals A and C followed by a one-bit mutation in each new individual (D and E).
+ Crossover through the midpoint of individuals B and C followed by a one-bit mutation in each new individual (D and E).
+Crossover through the midpoint of individuals A and B followed by a one-bit mutation in each new individual (D and E).
+Crossover through the midpoint of individuals A and B.
+Answered on 01/03/2022 20:57:00
+
+ 
+two
+          Question
+Consider the problem of maximizing the function f(x) = 3x+2 in the domain [0, 127], using an integer representation for x. How many bits should the chromosome consist of?
+ 16
+3
+9
+ right 7
+128
+Answered on 01/03/2022 20:57:57
+
+ 
+3
+          Question
+In a selection process using, for example, the biased roulette method, which of the individuals will have the highest fitness value for the objective function f(x)= 1/x ?
+110011
+111001
+ Right 001101
+111000
+011011
+
+Considering that a Genetic Algorithm problem has, at a given instant, a population of four individuals of 4 bits (first column) each with the following evaluation values ​​(second column):
+
+0010 1
+
+0101 4
+
+0110 5
+
+1011 10
+
+ 
+
+What is the percentage of roulette area that the second individual (0101) must receive to proceed with the selection mechanism?
+
+ Right 20%
+4%
+40%
+25%
+30%
+
+ 
+5
+          Question
+Let it be an objective function given by f(x)=x2+x, defined in the interval [0,7], that is, the chromosome is represented with 3 bits. What is the value of the global maximum of f(x) in the interval, using the genetic algorithm?
+21
+ 49
+0
+57
+ right 56
+
+ Consider a genetic algorithm that operates on three individuals A, B, C, described respectively by the binary vectors A = [11011000], B = [00010000], C = [11001101], generating two new individuals D = [11011001] and
+E = [11011000] The new individuals were generated through:
+ Crossover through the midpoint of individuals A and C.
+ RIGHT Crossover through the midpoint of individuals A and C followed by a mutation of one bit in each new individual (D and E).
+Crossover through the midpoint of individuals A and B.
+Crossover through the midpoint of individuals B and C followed by a one-bit mutation in each new individual (D and E).
+Crossover through the midpoint of individuals A and B followed by a one-bit mutation in each new individual (D and E).
+Answered on 04/01/2022 10:17:00
+feedback
+commented
+
+ 
+7
+          Question
+Considering that a Genetic Algorithm problem has, at a given instant, a population of four individuals of 4 bits (first column) each with the following evaluation values ​​(second column):
+
+0010 1
+
+0101 4
+
+0110 5
+
+1011 10
+
+ 
+
+Defining a cut-off point between the second and third gene (from the most representative bit) of the chromosome, which children would be generated by crossing a point between the first (0010) and the third (0110) individuals?
+
+ Right 0110 and 0010
+
+1010 and 0110
+
+ 0110 and 0101
+0111 and 0010
+1011 and 0110
+
+Explanation:
+When performing the crossover, the result will be 0110 and 0010
+
+
+ 
+8
+          Question
+Consider the problem of maximizing the function f(x) = 3x+2 in the domain [0, 127]. What is the best solution to the problem (value of x that maximizes the function)?
+383
+0
+ right 127
+381
+two
+
+Let it be an objective function given by f(x)=x2+x, defined in the interval [0,7], that is, the chromosome is represented with 3 bits. What is the value of the global maximum of f(x) in the interval, using the genetic algorithm?
+ RIGHT 56
+0
+57
+49
+21
+
+feedback
+commented
+
+
+ 
+
+
+two.
+1- Let the following function be the one we want to maximize (find the value of x that gives the largest value for f(x):
+f(x) = x2 + 3x.
+What is the maximum value of this function in the domain from 0 to 7?
+50
+right 70
+35
+53
+21
+
+feedback
+commented
+
+
+ 
+
+
+3.
+In a selection process using, for example, the biased roulette method, which of the individuals will have the highest fitness value for the objective function f(x)= 1/x ?
+110011
+111001
+011011
+Right 001101
+111000
+
+Considering that a Genetic Algorithm problem has, at a given instant, a population of four individuals of 4 bits (first column) each with the following evaluation values ​​(second column):
+
+0010 1
+
+0101 4
+
+0110 5
+
+1011 10
+
+ 
+
+What is the percentage of roulette area that the second individual (0101) must receive to proceed with the selection mechanism?
+
+40%
+4%
+25%
+RIGHT 20%
+30%
+
+
+
+ 
+
+
+5.
+ 
+
+In an optimization problem whose objective is to find the global maximum of a function, a first generation of genetic algorithms was generated and evaluated according to the data displayed in the table. Knowing that the selection method used will be the roulette method, mark the alternative that presents the correct relative evaluation of individuals 3 and 4 respectively:
+
+
+
+RIGHT 0.32 and 0.27
+0.27 AND 0.32
+0.30 AND 0.32
+0.35 AND 0.30
+0.32 and 0.30
+
+Consider a genetic algorithm that operates on three individuals A, B, C, described respectively by the binary vectors A = [11011000], B = [00010000], C = [11001101], generating two new individuals D = [11011001] and
+E = [11011000] The new individuals were generated through:
+RIGHT Crossover through the midpoint of individuals A and C followed by a one-bit mutation in each new individual (D and E).
+Crossover through the midpoint of individuals A and B followed by a one-bit mutation in each new individual (D and E).
+ Crossover through the midpoint of individuals A and B.
+Crossover through the midpoint of individuals B and C followed by a one-bit mutation in each new individual (D and E).
+Crossover through the midpoint of individuals A and C.
+
+feedback
+commented
+
+
+ 
+
+
+7.
+Considering that a Genetic Algorithm problem has, at a given instant, a population of four individuals of 4 bits (first column) each with the following evaluation values ​​(second column):
+
+0010 1
+
+0101 4
+
+0110 5
+
+1011 10
+
+ 
+
+Defining a cut-off point between the second and third gene (from the most representative bit) of the chromosome, which children would be generated by crossing a point between the first (0010) and the third (0110) individuals?
+
+RIGHT 0110 and 0010
+
+1010 and 0110
+
+0110 and 0101
+1011 and 0110
+0111 and 0010
+
+
+
+Explanation:
+When performing the crossover, the result will be 0110 and 0010
+
+
+
+
+ 
+
+
+8.
+Consider the problem of maximizing the function f(x) = 3x+2 in the domain [0, 127]. What is the best solution to the problem (value of x that maximizes the function)?
+0
+two
+383
+RIGHT  127
+381
+
+---------------------8
+Important parameters in the design of an artificial neural network are considered:
+Tick ​​the INCORRECT alternative.
+Number of layers
+ Right Relevance function
+Number of neurons
+network topology
+Data representation
+
+
+ 
+two
+          Question
+Regarding artificial neural networks, it can be said that
+
+I- Recurrent networks - are networks with neurons that compete for the right to produce the output are called
+
+II- Competitive networks - have dynamic neurons
+
+III- Networks with supervised learning - the adjustment of the weights is made to each input/output pattern to produce the desired output
+
+Tick ​​the CORRECT alternative
+
+Only option I is correct.
+ RIGHT Only option III is correct.
+Only option II is correct.
+Only alternatives II and III are correct.
+ Only alternatives I and III are correct.
+
+ Neural networks have architectures based on similar building blocks that perform processing in parallel. Regarding neural networks:
+
+I - In unsupervised learning, examples of inputs and their respective outputs are used in training the neural network.
+II - Learning rules are schemes for updating the synapse weight values ​​of a genetic algorithm.
+III - Training is the way in which the neural computational system learns about the information it will need in order to solve certain problems.
+
+It is correct to say that:
+I and III are true
+I is true
+I and II are true
+ Right III True
+II is true
+Answered on 04/01/2022 11:28:35
+feedback
+commented
+
+ 
+4
+          Question
+The knowledge learned by an artificial neural network is stored:
+ in neurons
+In the inner layers
+in the output layer
+in the input layer
+ Right On the weights of network connections
+
+ Artificial Neural Networks are computational techniques that present a mathematical model inspired by the neural structure of intelligent organisms, so it can be said that a connectionist model: (Choose the CORRECT alternative):
+ RIGHT They deal with non-symbolically represented knowledge and process information in a parallel and distributed way.
+They employ a parallel and structured search strategy, based on the mechanisms of natural selection.
+ They perform approximate reasoning, with imprecise propositions and described in natural language.
+They deal with explicit knowledge, symbolically represented and generalize the learned knowledge.
+They are inspired by the behavior of the human brain and model the imprecise modes of approximate reasoning.
+Answered on 04/01/2022 11:38:09
+
+ 
+6
+          Question
+Regarding the connectionist model, we can say that:
+Possesses part of the knowledge needed to solve the problem.
+Each problem requires the designer to make appropriate choices to provide the correct evolution of solutions over successive generations.
+Each problem does not necessarily require the designer to make adequate choices to provide the correct evolution of solutions over successive generations.
+ Right Has no knowledge stored until trained to solve a problem.
+It has all the knowledge needed to solve the problem.
+
+-------------------------9
+
+In Multi-Layer Perceptrons (MLP) networks with the Backpropagation algorithm, why is this type of training called supervised training?
+a weight supervision algorithm is used during training
+inputs and outputs are shuffled by the supervisor before training
+The entire process must be supervised by a specialist
+RIGHT the desired outputs are provided and used to correct the weights
+responses are reviewed using the validation set
+
+feedback
+commented
+
+
+ 
+
+two.
+Regarding the data set used by a supervised learning artificial neural network, analyze the following statements:
+
+I - The neuron weights update occurs in both training and validation sets.
+
+II - The training set must be presented to the network several times, that is, at different times.
+
+III - The validation set is used to test the generalization capacity of the network, that is, if it learned patterns by testing data not present in the training set.
+
+Tick ​​the correct alternative:
+
+ Only statement III is correct
+Only statement I is correct
+Statements I and II are correct
+RIGHT Statements II and III are correct
+Only statement II is correct
+
+Consider the network with McCulloch-Pitts neurons below, in which each neuron has the threshold q = 0. For pairs of input values ​​(xA and xB) of (0,0), (0,1), (1, 0) and (1,1), what would be the respective output values ​​of neuron z3?
+
+ 
+
+ 
+
+(0,1,0,1)
+(1,1,1,0)
+ (1,0,0,1)
+RIGHT (0,1,1,0)
+(0,0,0,1)
+
+feedback
+commented
+
+
+ 
+
+4.
+In Multi-Layer Perceptrons (MLP) networks with the Backpropagation algorithm, what is the main function of the momentum term applied to the weight adjustment formula?
+Wrong To speed up convergence using a multiplier factor arbitrated by the algorithm
+To explore multiple minimum points of the function
+To stop the convergence to the minimum value of the error function, since a slower descent prevents passing the desired point
+To stop convergence by inhibiting the attraction of local minima and allowing convergence to the global minimum
+RIGHT To accelerate convergence using the correction trend from the previous cycle
+
+In Multi-Layer Perceptron (MLP) networks with the Backpropagation algorithm, what can training beyond the desired point for the quality of the trained network?
+I - The network starts to confuse the input patterns
+II - The network becomes better and more generic, but there is a large computational cost
+III - Decreased ability to generalize the network
+
+According to the approach, mark the CORRECT option:
+Right Only item III is correct.
+Only item I is correct.
+Only item II is correct.
+Only items I and III are correct.
+Only items I and II are correct.
+
+
+
+ 
+
+6.
+The Backpropagation training algorithm consists of a sequence of phases.
+Mark the INCORRECT alternative about this algorithm.
+Calculate the error in the network output, which is equivalent to a difference between the output value obtained in the network and the desired output value.
+RIGHT Present a pattern in the input layer and calculate its weight value in the output layer.
+If a desired maximum error has not been reached, return to the initial step for the next iteration (presentation of all patterns again).
+Modify the weights of synaptic connections in order to minimize the average error, considering all the patterns in the sample.
+Backpropagating the error in the network by calculating how changes in weights affect the error.
+
+Analyze the following statements about neural networks without directed loops, where n is the number of neurons and m is the number of connections.
+I. Once trained, the use of the network consists of applying an input and waiting until convergence occurs in order to obtain the output.
+II. The training process consists of obtaining a vector in at least m -dimensional space. This vector is obtained through an optimization process that seeks to minimize the error on the training instances.
+III. The training process consists of obtaining a vector in at least m -dimensional space. This vector is obtained through an optimization process that seeks to minimize the generalization error.
+The analysis allows us to conclude that:
+
+Choose the correct alternative
+
+Only statements II and III are correct.
+RIGHT Only statement II is correct.
+Only statements I and II are correct.
+All statements are correct.
+Only statement III is correct.
+
+feedback
+commented
+
+
+ 
+
+8.
+Consider the network with McCulloch-Pitts neurons below, in which each neuron has the threshold q = 0. For pairs of input values ​​(x1 and x2) of (0,0), (0,1), (1, 0) and (1,1), what would be the respective output values ​​of neuron z3?
+
+
+
+(1,0,0,1)
+(0,1,1,0)
+(0,0,0,1)
+(0,1,0,1)
+RIGHT (0,1,1,1)
+
+
+--------------------10
+Regarding artificial neural networks with competitive learning, it can be said that:
+
+I- The networks for this type of problem have a layer of output nodes that are connected to a single layer (input, therefore), in such a way that there can be any number of nodes at the input regardless of the amount of characteristics of the patterns input.
+II- Information is extracted without a target input/output pair.
+III- Competitive learning is an algorithm that divides a series of input data into groups (clusters) that are inherent to the input data.
+
+Tick ​​the correct alternative.
+
+Only items I and II are correct
+RIGHT Only items II and III are correct.
+Only item II is correct.
+Only item I is correct.
+Only item III is correct.
+
+feedback
+commented
+
+
+ 
+
+two.
+They are considered characteristics of Competitive Learning Networks
+I- Supervised learning
+II- A single layer
+III- Competition between neurons
+IV- Division of data into clusters
+
+In this regard, it can be concluded that:
+Choose the correct alternative
+
+The statements I, II, III and IV are correct.
+RIGHT Only statements II, III and IV are correct.
+Only statements I and IV are correct.
+Only statements I, III and IV are correct.
+Only statements I, II and III are correct.
+
+They are considered characteristics of the Kohonen Networks
+I- Unsupervised learning
+II- A single layer
+III- Correlation with neighboring neurons
+IV- Distance from Manhattan
+
+In this regard, it can be concluded that:
+Choose the correct alternative
+
+RIGHT The statements I, II, III and IV are correct.
+Only statements II, III and IV are correct.
+Only statements I, III and IV are correct.
+Only statements I and IV are correct.
+Only statements I, II and III are correct.
+
+feedback
+commented
+
+Regarding the Kohonen networks, we can say that:
+RIGHT The behavior of a given node is directly affected by the behavior of neighboring nodes.
+The behavior of a given node is not directly affected by the behavior of neighboring nodes.
+The behavior of a given node is directly affected only by the behavior of a neighboring node.
+The training of a given node is directly affected by the behavior of neighboring nodes.
+The behavior of a given node is the same as the behavior of neighboring nodes.
+
+feedback
+commented
+
+
+ 
+
+6.
+Regarding artificial neural networks with competitive learning, some methods can be used to determine the distance that exists between the input vector (input pattern) and each of the output nodes, such as:
+
+A- method that assumes both the input vector and the vector of weights that connect the node to the inputs are normalized to the unit value (that is, the length of these vectors must be 1)
+B- method of determining which weight vector is closest to the input vector, in a simplified way, it uses the calculation of the square of the difference in distances.
+C- method of determining which weight vector is closest to the input vector, calculating the error in the network output, which is equivalent to a difference between the output value obtained in the network and the desired output value.
+
+Which correspond to:
+
+I- Euclidean Distance
+II- Backpropagation
+III- Scalar product
+
+Mark the alternative that correctly indicates the methods indicated for the determination of this distance.
+
+A(III), B(II) and C(I).
+RIGHT A(III) and B(I), only.
+A(I) and C(II) only.
+B(II) and C(III) only.
+ A (II), B (III) and C (I).
+
+ 
+
+4.
+Regarding self-organizing maps, list the technical terms in the left column with their definitions in the right column.
+
+I - Grouping.
+II- Competitive learning.
+III- Winner neuron.
+IV- Recurring networks.
+V - Neighborhood.
+
+A- Defines how many neurons around the winner will have their weights adjusted, that is, it defines the area of ​​influence of the winning node. Its architecture can take many different forms.
+B- Class organization in the output layer of a Kohonen Map. Although not essential, the nodes on this layer are usually arranged in a grid form.
+C- Neural Network that can have connections that go back from the output nodes to the input nodes and that can also have arbitrary connections between any nodes. In this way, its internal state can change as sets of inputs are presented to the network.
+D- Result of a mechanism that allows the right to respond to a specific subset of data, so that only one output neuron, or one neuron per group, is active at any given time.
+E- Technique that uses the principle that only one neuron provides the network output in response to an input.
+
+Check the alternative that contains the CORRECT association.
+
+I-E, II-A, III-B, IV-D, V-C.
+I-A, II-C, III-E, IV-D, V-B.
+I-B, II-A, III-E, IV-C, V-D.
+RIGHT I-B, II-E, III-D, IV-C, V-A.
+I-E, II-C, III-D, IV-A, V-B.
+
+Match the following items:
+
+(S) Supervised training
+(N) Unsupervised training
+
+with
+
+I- The network learns from known patterns
+II- The training is directed to reduce the error in the output
+III- The training patterns have only inputs
+
+Tick ​​the alternative that presents the CORRECT correlation.
+ I(N), II (N) and III (N)
+I(N), II (S) and III (N)
+I(N), II (S) and III (S)
+I (S), II (S) and III (S)
+RIGHT I (S), II (S) and III (N)
